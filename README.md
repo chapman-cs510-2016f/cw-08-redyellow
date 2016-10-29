@@ -1,8 +1,8 @@
 # CS510 CW 8
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Nengyin Zhu(Helen), Kaiqin Huang_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-08-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-08-redyellow.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-08-redyellow)
 
 **Due date:** 2016/10/25
 
@@ -31,7 +31,7 @@ def julia(z):
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**Julia is great, expecially for saving time of long running python code. Besides, Julia can do the same thing I used to do in python, but pretty much quicker.**
 
 ## Honor Pledge
 
@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Nengyin Zhu, Kaiqin Huang**
